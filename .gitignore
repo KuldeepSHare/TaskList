@@ -12,5 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-*.log
-.idea/
+local.properties
